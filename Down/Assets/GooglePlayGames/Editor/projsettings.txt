@@ -1,0 +1,6 @@
+lastUpgrade=00915
+proj.AppId=637629642007
+android.SetupDone=true
+ios.ClientId=637629642007-6c88mqo0n24fgdkhsn803isd84hulafi.apps.googleusercontent.com
+ios.BundleId=com.cgranule.downios
+ios.SetupDone=true
